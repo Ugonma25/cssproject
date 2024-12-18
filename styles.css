@@ -1,0 +1,86 @@
+.mainlogo{
+    height: 40px;
+    width: 300px;
+    margin: 0 0 0 100px;
+}
+
+.navbar-nav{
+    margin: 0 0 0 15rem;
+}
+
+.nav-link{
+    color: #00C3A5 !important;
+}
+
+.logo{
+    height: 40px;
+    width: 40px;
+    margin: 90px 0 0 28rem;
+}
+
+.exp{
+    color: #00C3A5;
+    text-align: center;
+    font-weight: 100;
+}
+
+.patients h5{
+    color: grey;
+    font-size: 14px;
+    margin: 20px 0 0 0;
+}
+
+.pat{
+    padding: 0 110px;
+}
+
+.box1{
+    background-color: #00C3A5;
+    width: 250px !important;
+    height: 250px !important;
+    border-radius: 10px;
+    color: white;
+    padding: 20px 30px !important;
+    margin: 0 20px !important;
+}
+
+.box2{
+    background-color: #3d83df;
+    width: 250px !important;
+    height: 250px !important;
+    border-radius: 10px;
+    color: white;
+    padding: 20px 30px !important;
+    margin: 0 20px !important;
+}
+
+.box3{
+    background-color: #1b2734;
+    width: 250px !important;
+    height: 250px !important;
+    border-radius: 10px;
+    color: white;
+    padding: 20px 30px !important;
+    margin: 0 20px !important;
+}
+
+.boxes{
+    justify-content: center !important;
+    margin: 50px 0 0 0 !important;
+}
+
+.images img{
+    height: 22px;
+    width: 60px;
+    margin: 25px 0;
+}
+
+.global{
+    margin: 40px 0 0 80px;
+    color: #1ea08d;
+}
+
+.first{
+    display: flex;
+    flex-direction: column !important;
+}
